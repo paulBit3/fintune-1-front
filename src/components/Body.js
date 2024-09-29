@@ -55,7 +55,7 @@ const Body = () => {
             <img src='../assets/future_industries_55933.png' />
           </div>
         </div>
-
+        <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
       </section>
 
 

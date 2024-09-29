@@ -29,33 +29,6 @@
 }
 
 
-.navbar-custom .navbar-nav {
-	margin-top: 0.7rem;
-	margin-bottom: 0.5rem;
-}
-
-.navbar-custom .nav-item .nav-link {
-	padding: 0.6rem 0.7rem 0.6rem 0.7rem;
-	color: #F7F5F5;
-	opacity: 0.8;
-	text-decoration: none;
-	transition: all 0.2s ease;
-}
-
-.navbar-custom .nav-item .nav-link:hover,
-.navbar-custom .nav-item .nav-link:active {
-	color: #FFF;
-	opacity: 1;
-}
-
-.navbar-custom .nav-item .btn-outline-sm {
-	margin-top: 0;
-    margin-bottom: 0;
-    margin-left: 0.5rem;
-    border: 0.125rem solid #fff;
-    color: #fff;
-}
-
 .registration-link {
   text-align: center;
   margin-top: 15px;
